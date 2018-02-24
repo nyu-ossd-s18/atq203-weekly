@@ -23,6 +23,15 @@ body {
   color: $darkGray;
 }
 
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #eeee;
+  margin: 1em 0;
+  padding: 0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
