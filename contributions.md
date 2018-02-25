@@ -5,7 +5,7 @@ permalink: /contributions
 ---
 
 | Week        | Contribution           | Type  |
-| ------------- |:-------------| -----|
+| ------------- |:-------------|:-----|
 | 5 |[Pull request](https://github.com/joannakl/cs480_s18/pull/86) made| Course website |
 | 5 |[Pull request](https://github.com/joannakl/cs480_s18/pull/84) reviewed| Course website |
 | 5 |[Issue](https://github.com/joannakl/cs480_s18/issues/77) opened| Course website |
