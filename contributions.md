@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Contribution History
-permalink: /contributions
+permalink: /contributions/
 ---
 
 | Week        | Contribution           | Type  |
 | ------------- |:-------------|:-----|
+| 6 |[Issue](https://github.com/joannakl/cs480_s18/issues/93) opened| Course website |
+| 6 |[Pull request](https://github.com/jupyter/notebook/pull/3386) made| Other (Jupyter Notebook) |
 | 5 |[Pull request](https://github.com/joannakl/cs480_s18/pull/86) made| Course website |
 | 5 |[Pull request](https://github.com/joannakl/cs480_s18/pull/84) reviewed| Course website |
 | 5 |[Issue](https://github.com/joannakl/cs480_s18/issues/77) opened| Course website |
