@@ -4,11 +4,16 @@ title: Contribution History
 permalink: /contributions/
 ---
 
+## Total: 16
+
 | Week        | Contribution           | Type  |
 | ------------- |:-------------|:-----|
-| 7 |[Pull request](https://github.com/facebook/Docusaurus/pull/491) made| Docusaurus |
-| 7 |[Pull request](https://github.com/ml5js/ml5js.github.io/pull/9) made| ML5.js |
-| 7 |[Pull request](https://github.com/ml5js/ml5js.github.io/pull/12) made| ML5.js |
+| 8 |[Issue](https://github.com/education/classroom/pull/1314) commented| Other (Classrooms) |
+| 8 |[Pull request](https://github.com/education/classroom/pull/1312) made| Other (Classrooms) |
+| 8 |[Pull request](https://github.com/facebook/Docusaurus/pull/495) made| Other (Docusaurus) |
+| 7 |[Pull request](https://github.com/facebook/Docusaurus/pull/491) made| Other (Docusaurus) |
+| 7 |[Pull request](https://github.com/ml5js/ml5js.github.io/pull/9) made| Other (ML5.js) |
+| 7 |[Pull request](https://github.com/ml5js/ml5js.github.io/pull/12) made| Other (ML5.js) |
 | 6 |[Issue](https://github.com/joannakl/cs480_s18/issues/93) opened| Course website |
 | 6 |[Pull request](https://github.com/jupyter/notebook/pull/3386) made| Other (Jupyter Notebook) |
 | 5 |[Pull request](https://github.com/joannakl/cs480_s18/pull/86) made| Course website |
