@@ -4,10 +4,16 @@ title: Contribution History
 permalink: /contributions/
 ---
 
-## Total: 16
+## Total: 21
+
 
 | Week        | Contribution           | Type  |
 | ------------- |:-------------|:-----|
+| 9 |[Issue](https://github.com/jupyter/notebook/issues/3251) commented| Other (Jupyter Notebook) |
+| 9 |[Issue](https://github.com/jupyter/notebook/issues/3292) commented| Other (Jupyter Notebook) |
+| 9 |[Issue](https://github.com/jupyter/notebook/issues/3471) created| Other (Jupyter Notebook) |
+| 9 |[PR](https://github.com/jupyter/notebook/pull/3484) created| Other (Jupyter Notebook) |
+| 9 |[Article](https://en.wikipedia.org/w/index.php?title=Roy_Cohn&diff=prev&oldid=833537907) addition| Wikipedia |
 | 8 |[Issue](https://github.com/education/classroom/pull/1314) commented| Other (Classrooms) |
 | 8 |[Pull request](https://github.com/education/classroom/pull/1312) made| Other (Classrooms) |
 | 8 |[Pull request](https://github.com/facebook/Docusaurus/pull/495) made| Other (Docusaurus) |
